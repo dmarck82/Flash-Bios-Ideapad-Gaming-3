@@ -1,4 +1,4 @@
-#Tutorial de como fazer o Flash da BIOS do Ideapad Gaming 3 15ARH7 (talvez funcione em outros modelos).
+# Tutorial de como fazer o Flash da BIOS do Ideapad Gaming 3 15ARH7 (talvez funcione em outros modelos).
 
 OBS: OS LINKS DIRETOS SÃO PARA O MODELO 15ARH7
 
@@ -19,7 +19,7 @@ Link do tutorial original: https://github.com/nonkerdoob/SmokelessCPU-Guides/blo
 
 ---
 
-##Ferramentas necessárias:
+## Ferramentas necessárias:
 
 [InnoExtract](https://github.com/dscharrer/innoextract/releases)
 
@@ -32,7 +32,7 @@ Link do tutorial original: https://github.com/nonkerdoob/SmokelessCPU-Guides/blo
 
 ---
 
-##OBTENDO A BIOS DO SEU NOTEBOOK:
+## OBTENDO A BIOS DO SEU NOTEBOOK:
 
 Acessar o site da Lenovo: https://pcsupport.lenovo.com/
 
@@ -46,7 +46,7 @@ Link direto: https://download.lenovo.com/consumer/mobiles/jncn48ww.exe
 
 ---
 
-##EXTRAINDO A BIOS
+## EXTRAINDO A BIOS
 
 A maneira mais fácil para extrair a BIOS é executar o arquivo.
 
@@ -63,7 +63,7 @@ Navegue até a nova pasta que você extraiu os arquivos
 
 ---
 
-##IDENTIFICANDO A IMAGEM DA BIOS
+## IDENTIFICANDO A IMAGEM DA BIOS
 
 Nesta pasta haverão aproximadamente 15 arquivos
 
@@ -77,7 +77,7 @@ No próximo passo, você irá descobrir o nome para renomear esse arquivo
 
 ---
 
-##DESCOBRINDO O NOME DA SUA BIOS
+## DESCOBRINDO O NOME DA SUA BIOS
 
 Aqui eu apenas irei reproduzir o passo a passo do tutorial original
 
@@ -123,7 +123,7 @@ APÓS DESCOBRIR O NOME DA SUA BIOS, VOCÊ IRÁ RENOMEA-LA E TROCAR A EXTENSÃO P
 
 ---
 
-##CRIAR UM PEN DRIVE
+## CRIAR UM PEN DRIVE
 
 Formate um pen drive em FAT32, GPT (O jeito mais fácil é usar o Rufus e criar uma imagem com o FreeDos, após isso, vá no pen drive e apague os arquivos)
 
@@ -133,7 +133,7 @@ No meu caso, o pen drive só contém um arquivo nele "jncn.bin"
 
 ---
 
-##FLASH NA BIOS
+## FLASH NA BIOS
 
 Com o Note desligado e desconectado da tomada
 
@@ -153,7 +153,7 @@ Ele irá reiniciar sozinho (demora mais uns 5 minutos até aparecer a logo da Le
 
 ---
 
-##CONCLUÍDO
+## CONCLUÍDO
 
 Eu refiz esse compilado pois eu não encontrei nenhuma informação sobre como fazer isso corretamente na internet, ou então as informações estavam em inglês, ou incompletas.
 
