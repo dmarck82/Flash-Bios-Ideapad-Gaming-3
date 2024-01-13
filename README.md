@@ -160,3 +160,5 @@ Eu refiz esse compilado pois eu não encontrei nenhuma informação sobre como f
 Espero que isso facilite a sua vida
 
 Todos os créditos para o autor original SmokelessCPU.
+
+Obrigado.
